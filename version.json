@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "download_url": "https://kilcjpzlbiddeqludncp.supabase.co/storage/v1/object/public/app-updates/CarBookingSystem.exe",
-  "changelog": "ระบุรายละเอียดการเปลี่ยนแปลงหรือฟีเจอร์ใหม่ในเวอร์ชันนี้"
+  "download_url": "https://raw.githubusercontent.com/ChawakornWorkShop/carbooking/main/dist/ระบบบริหารจัดการรถราชการ%20สภ.นาข่า.exe",
+  "changelog": "- เปิดใช้งานระบบออนไลน์ Supabase และระบบอัปเดตอัตโนมัติ"
 }
